@@ -1,0 +1,12 @@
+html body {
+	min-width:100px !important;
+}
+#plupload-upload-ui { 
+	display:none; 
+}
+#html-upload-ui { 
+	display:block !important;
+}
+.media-upload-form { 
+	margin-top:0;
+}
